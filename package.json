@@ -114,7 +114,7 @@
     "package": "npm run check-types && node esbuild.js --production"
   },
   "devDependencies": {
-    "@types/adm-zip": "^0.5.5",
+    "@types/adm-zip": "^0.6.0",
     "@types/node": "^24.0.0",
     "@types/vscode": "^1.85.0",
     "esbuild": "^0.28.0",
